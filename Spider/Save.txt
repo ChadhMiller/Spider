@@ -1,0 +1,5 @@
+45112C:\Users\chadh\code\Spider\Spider\spider\Program.cs
+C:\Users\chadh\code\Spider\Spider\spider\.vscode\launch.json
+C:\Users\chadh\code\Spider\Spider\spider\bin\Debug\net6.0\Spider.exe
+C:\Users\chadh\code\Spider\Spider\spider\obj\Debug\net6.0\apphost.exe
+C:\Users\chadh\code\Spider\Spider\spider\obj\Debug\net6.0\Spider.AssemblyInfo.cs

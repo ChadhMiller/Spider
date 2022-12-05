@@ -1,0 +1,15 @@
+C:\Users\chadh\code\Spider\Spider\Spider\bin\Debug\net6.0\Spider.exe
+C:\Users\chadh\code\Spider\Spider\Spider\bin\Debug\net6.0\Spider.deps.json
+C:\Users\chadh\code\Spider\Spider\Spider\bin\Debug\net6.0\Spider.runtimeconfig.json
+C:\Users\chadh\code\Spider\Spider\Spider\bin\Debug\net6.0\Spider.dll
+C:\Users\chadh\code\Spider\Spider\Spider\bin\Debug\net6.0\Spider.pdb
+C:\Users\chadh\code\Spider\Spider\Spider\obj\Debug\net6.0\Spider.csproj.AssemblyReference.cache
+C:\Users\chadh\code\Spider\Spider\Spider\obj\Debug\net6.0\Spider.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chadh\code\Spider\Spider\Spider\obj\Debug\net6.0\Spider.AssemblyInfoInputs.cache
+C:\Users\chadh\code\Spider\Spider\Spider\obj\Debug\net6.0\Spider.AssemblyInfo.cs
+C:\Users\chadh\code\Spider\Spider\Spider\obj\Debug\net6.0\Spider.csproj.CoreCompileInputs.cache
+C:\Users\chadh\code\Spider\Spider\Spider\obj\Debug\net6.0\Spider.dll
+C:\Users\chadh\code\Spider\Spider\Spider\obj\Debug\net6.0\refint\Spider.dll
+C:\Users\chadh\code\Spider\Spider\Spider\obj\Debug\net6.0\Spider.pdb
+C:\Users\chadh\code\Spider\Spider\Spider\obj\Debug\net6.0\Spider.genruntimeconfig.cache
+C:\Users\chadh\code\Spider\Spider\Spider\obj\Debug\net6.0\ref\Spider.dll
